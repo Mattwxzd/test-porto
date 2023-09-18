@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mattwxzd.com/sitemap.xml
