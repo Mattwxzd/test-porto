@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Mattwxzd</title>
-    <link>https://mattwxzd.com/post/</link>
-    <description>Recent content in Posts on Mattwxzd</description>
+    <title>ux design on Mattwxzd</title>
+    <link>https://mattwxzd.com/tags/ux-design/</link>
+    <description>Recent content in ux design on Mattwxzd</description>
     <image>
       <title>Mattwxzd</title>
       <url>https://mattwxzd.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mattwxzd.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mattwxzd.com/tags/ux-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic learnings as a UX beginner</title>
       <link>https://mattwxzd.com/post/basic-learning/</link>
@@ -20,16 +20,6 @@
       <guid>https://mattwxzd.com/post/basic-learning/</guid>
       <description>I wish I could have written this sooner, so that those with little to no experience working on real, commercial projects could get a sense of some of the basics of working in product design. Many of these practices might be second-nature to you — if that’s the case, then you’ve got your base covered!
 This post isn’t about the theory of design, or about any particular design tool. It’s on how to work better as a designer and more importantly, as part of a design team.</description>
-    </item>
-    
-    <item>
-      <title>Breakfast Brainstrom</title>
-      <link>https://mattwxzd.com/post/breakfast-brainstrom/</link>
-      <pubDate>Tue, 01 Aug 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mattwxzd.com/post/breakfast-brainstrom/</guid>
-      <description>Have you heard about Stream of Consciousness Writing?
-Stream of consciousness writing is a literary style that aims to capture the continuous flow of thoughts and feelings as they occur in the mind. Instead of adhering to traditional grammar rules and logical structure, stream of consciousness writing allows your thoughts to spill onto the page in an unfiltered and spontaneous manner. It’s like taking a journey through the labyrinth of your own mind, with all its twists and turns.</description>
     </item>
     
   </channel>
