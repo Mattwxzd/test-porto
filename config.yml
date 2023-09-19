@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Mattwxzd
+  title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -83,6 +83,8 @@ params:
       url: "https://instagram.com/mattwxzd"
     - name: github
       url: "https://github.com/mattwxzd"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCBZ4UcL2WCkHFYIer-3aeIQ"
 
   analytics:
     google:
@@ -122,6 +124,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: about me
+      name: About Me
+      url: /aboutme/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
